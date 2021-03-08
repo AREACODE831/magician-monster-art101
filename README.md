@@ -1,1 +1,1 @@
-# magician-monster-art101
+# randomizer
